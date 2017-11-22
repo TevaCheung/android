@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">tp_applis_mobiles</string>
+
+    <string name="btn_com">Start</string>
+    <string name="btn_val">Valider</string>
+    <string name="btn_spo">Sports</string>
+    <string name="btn_accueil">Accueil</string>
+
+    <string name="nom">Nom</string>
+    <string name="prenom">Prenom</string>
+    <string name="ddn">Date de naissance</string>
+    <string name="mail">E-mail</string>
+    <string name="ap">Adresse postale</string>
+    <string name="com">Commentaires</string>
+</resources>
